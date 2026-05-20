@@ -1,8 +1,8 @@
 # Hi there, I'm Yash Bondre 👋
 
-### 👨‍💻 Full-Stack Developer | AI & Agentic Systems Enthusiast
+### 👨‍💻 Full-Stack Developer | AI & Agentic Systems Enthusiast | Data Analytics 
 
-I am a final-year Computer Science and Design student specializing in building scalable web applications and AI-driven systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and AI workflows.
+I speciale in building scalable web applications and AI-driven systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and AI workflows.
 
 ### 🚀 About Me
 

@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics 
 
-I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerfu[...]
+I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powe[...]
 
 ### 🚀 About Me
 
@@ -56,7 +56,9 @@ I specialize in building scalable web applications and advanced browser-native s
 <!-- Resume Preview -->
 ### 📄 Resume Preview
 
-![Yash Bondre Resume](./image.png)
+[![Yash Bondre Resume](./image.png)](./Yash_Bondre_April_2026.pdf)
+
+> 📥 **[Download PDF Resume](./Yash_Bondre_April_2026.pdf)**
 
 ---
 

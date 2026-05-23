@@ -1,10 +1,16 @@
 # Hi there, I'm Yash Bondre 👋
 
-### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics 
+<h3 align="left">
+  <img src="https://lucide.dev/icon/layers.svg" width="22" height="22" style="vertical-align:middle;" />
+  Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics
+</h3>
 
 I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powe[...]
 
-### 🚀 About Me
+<h3 align="left">
+  <img src="https://lucide.dev/icon/user-round.svg" width="22" height="22" style="vertical-align:middle;" />
+  About Me
+</h3>
 
 - 🎓 **Education:** Bachelor’s degree in Computer Science & Design from New Horizon Institute of Technology and Management.
 - 💼 **Experience:** Recently worked as a **Full Stack Developer Intern** at Blood Nexus Studios, building a scalable CMS-driven web application with React.js, Strapi, and PostgreSQL.
@@ -14,7 +20,10 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-### 🛠️ Tech Stack & Tools
+<h3 align="left">
+  <img src="https://lucide.dev/icon/terminal-square.svg" width="22" height="22" style="vertical-align:middle;" />
+  Tech Stack & Tools
+</h3>
 
 **Frontend:**
 <br/>
@@ -41,7 +50,10 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-### 🔥 Featured Projects
+<h3 align="left">
+  <img src="https://lucide.dev/icon/folder-kanban.svg" width="22" height="22" style="vertical-align:middle;" />
+  Featured Projects
+</h3>
 
 - **[AI Tech Lead – Agentic AI GitHub App](https://github.com/YashBondre04):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest[...]
 
@@ -53,8 +65,10 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-<!-- Resume Preview -->
-### 📄 Resume Preview
+<h3 align="left">
+  <img src="https://lucide.dev/icon/file-text.svg" width="22" height="22" style="vertical-align:middle;" />
+  Resume Preview
+</h3>
 
 [![Yash Bondre Resume](./image.png)](./Yash_Bondre_April_2026.pdf)
 
@@ -62,7 +76,10 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-### 🔗 Let's Connect!
+<h3 align="left">
+  <img src="https://lucide.dev/icon/send.svg" width="22" height="22" style="vertical-align:middle;" />
+  Let's Connect!
+</h3>
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/yash-bondre)
 [<img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashbondre092@gmail.com)

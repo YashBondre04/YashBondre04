@@ -43,17 +43,26 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ### 🔥 Featured Projects
 
-- **SnapFlow:** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations, PDF workflows, and document restructuring directly inside the browser.
+- **[AI Tech Lead – Agentic AI GitHub App](https://github.com/YashBondre04):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest generation through secure webhook-based multi-agent workflows. :contentReference[oaicite:0]{index=0}
+
+- **[Revolver Rift Website](https://revolverrift.com):** Developed and maintained a modern production-ready web platform with responsive UI, scalable frontend architecture, and optimized user experience.
+
+- **[SnapFlow](https://github.com/YashBondre04):** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations, PDF workflows, and document restructuring directly inside the browser.
+
 - **[Ledgerly SaaS Platform](https://ledgerly-chi.vercel.app/):** A modern B2B/B2C SaaS tool marketing website showcasing responsive web design and seamless user experience.
-- **CMS-Driven Web Platform:** Developed a dynamic web app for Blood Nexus Studios using React.js and a headless Strapi CMS, integrated with Cloudinary for media and PostgreSQL for scalable data management.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashBondre04&show_icons=true&theme=github_dark&hide_border=true" alt="Yash's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBondre04&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashBondre04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBondre04&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YashBondre04&theme=github-dark-blue&hide_border=true" />
 </p>
 
 ---

@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics 
 
-I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerful workflow automation.
+I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerful data processing pipelines.
 
 ### 🚀 About Me
 
@@ -43,13 +43,20 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ### 🔥 Featured Projects
 
-- **[AI Tech Lead – Agentic AI GitHub App](https://github.com/YashBondre04):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest generation through secure webhook-based multi-agent workflows. :contentReference[oaicite:0]{index=0}
+- **[AI Tech Lead – Agentic AI GitHub App](https://github.com/YashBondre04):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest[...]
 
 - **[Revolver Rift Website](https://revolverrift.com):** Developed and maintained a modern production-ready web platform with responsive UI, scalable frontend architecture, and optimized user experience.
 
-- **[SnapFlow](https://github.com/YashBondre04):** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations, PDF workflows, and document restructuring directly inside the browser.
+- **[SnapFlow](https://github.com/YashBondre04):** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations[...]
 
 - **[Ledgerly SaaS Platform](https://ledgerly-chi.vercel.app/):** A modern B2B/B2C SaaS tool marketing website showcasing responsive web design and seamless user experience.
+
+---
+
+<!-- Resume Preview -->
+### 📄 Resume Preview
+
+![Yash Bondre Resume](image1)
 
 ---
 
@@ -59,3 +66,4 @@ I specialize in building scalable web applications and advanced browser-native s
 [<img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashbondre092@gmail.com)
 
 <br />
+

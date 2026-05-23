@@ -53,20 +53,6 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashBondre04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBondre04&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YashBondre04&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ### 🔗 Let's Connect!
 
 [<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/yash-bondre)

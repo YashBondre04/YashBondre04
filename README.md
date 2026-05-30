@@ -1,16 +1,12 @@
 # Hi there, I'm Yash Bondre 👋
 
-<h3 align="left">
-  <img src="https://lucide.dev/icon/layers.svg" width="22" height="22" style="vertical-align:middle;" />
-  Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics
-</h3>
+### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics
 
-I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powe[...]
+I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerful workflow automation.
 
-<h3 align="left">
-  <img src="https://lucide.dev/icon/user-round.svg" width="22" height="22" style="vertical-align:middle;" />
-  About Me
-</h3>
+---
+
+### 🙋 About Me
 
 - 🎓 **Education:** Bachelor’s degree in Computer Science & Design from New Horizon Institute of Technology and Management.
 - 💼 **Experience:** Recently worked as a **Full Stack Developer Intern** at Blood Nexus Studios, building a scalable CMS-driven web application with React.js, Strapi, and PostgreSQL.
@@ -20,10 +16,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-<h3 align="left">
-  <img src="https://lucide.dev/icon/terminal-square.svg" width="22" height="22" style="vertical-align:middle;" />
-  Tech Stack & Tools
-</h3>
+### 🛠️ Tech Stack & Tools
 
 **Frontend:**
 <br/>
@@ -50,39 +43,45 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-<h3 align="left">
-  <img src="https://lucide.dev/icon/folder-kanban.svg" width="22" height="22" style="vertical-align:middle;" />
-  Featured Projects
-</h3>
+### 🚀 Featured Projects
 
-- **[AI Tech Lead – Agentic AI GitHub App](https://github.com/YashBondre04):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest[...]
+- **[AI Tech Lead – Agentic AI GitHub App](YOUR_REPO_LINK):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest generation through secure webhook-based multi-agent workflows.
 
-- **[Revolver Rift Website](https://revolverrift.com):** Developed and maintained a modern production-ready web platform with responsive UI, scalable frontend architecture, and optimized user expe[...]
+- **[Revolver Rift Website](https://revolverrift.com):** Developed and maintained a modern production-ready web platform with responsive UI, scalable frontend architecture, and optimized user experience.
 
-- **[SnapFlow](https://github.com/YashBondre04):** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations[...]
+- **[SnapFlow](YOUR_REPO_LINK):** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations, PDF workflows, and document restructuring directly inside the browser.
 
 - **[Ledgerly SaaS Platform](https://ledgerly-chi.vercel.app/):** A modern B2B/B2C SaaS tool marketing website showcasing responsive web design and seamless user experience.
 
 ---
 
-<h3 align="left">
-  <img src="https://lucide.dev/icon/file-text.svg" width="22" height="22" style="vertical-align:middle;" />
-  Resume Preview
-</h3>
+### 📄 Resume
 
-[![Yash Bondre Resume](./image.png)](./Yash_Bondre_April_2026.pdf)
+[![Yash Bondre Resume](./assets/resume-preview.png)](./assets/Yash_Bondre_Resume.pdf)
 
-> 📥 **[Download PDF Resume](./Yash_Bondre_April_2026.pdf)**
+> 📥 **[Download PDF Resume](./assets/Yash_Bondre_Resume.pdf)**
 
 ---
 
-<h3 align="left">
-  <img src="https://lucide.dev/icon/send.svg" width="22" height="22" style="vertical-align:middle;" />
-  Let's Connect!
-</h3>
+### 📊 GitHub Stats
 
-[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/yash-bondre)
-[<img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashbondre092@gmail.com)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashBondre04&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashBondre04&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YashBondre04&theme=github-dark-blue&hide_border=true" />
+</p>
 
+---
+
+### 🤝 Let's Connect!
+
+<a href="https://linkedin.com/in/yash-bondre">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:yashbondre092@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>

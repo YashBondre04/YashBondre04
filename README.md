@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Bondre 👋
 
-### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | Data Analytics
+### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | AI & Data Analytics
 
 I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerful workflow automation.
 
@@ -55,11 +55,11 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ---
 
-### 📄 Resume
+### 📄 Resume Preview
 
-[![Yash Bondre Resume](./assets/resume-preview.png)](./assets/Yash_Bondre_Resume.pdf)
+[![Yash Bondre Resume](./image.png)](./Yash_Bondre_April_2026.pdf)
 
-> 📥 **[Download PDF Resume](./assets/Yash_Bondre_Resume.pdf)**
+> 📥 **[Download PDF Resume](./Yash_Bondre_April_2026.pdf)**
 
 ---
 
@@ -78,10 +78,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ### 🤝 Let's Connect!
 
-<a href="https://linkedin.com/in/yash-bondre">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/yash-bondre)
+[<img align="left" alt="Email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:yashbondre092@gmail.com)
 
-<a href="mailto:yashbondre092@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br />

@@ -47,7 +47,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 #### 1. **AI Tech Lead – Agentic AI GitHub App** | [Repo](https://github.com/YashBondre04/Agentic-AI-Tech-Lead)
 
-**What & Why:** An **autonomous pull request review system** that transforms GitHub webhooks into a multi-agent AI workflow. When developers open or update PRs, the system automatically generates structured code reviews and pytest test suites—eliminating manual review bottlenecks while maintaining output safety through validation gates.
+An **autonomous pull request review system** that transforms GitHub webhooks into a multi-agent AI workflow. When developers open or update PRs, the system automatically generates structured code reviews and pytest test suites—eliminating manual review bottlenecks while maintaining output safety through validation gates.
 
 **Technical Architecture:**
 - **Multi-Agent Orchestration:** Uses **CrewAI** framework to coordinate three specialized agents (Reviewer, Tester, Reporter) that work in parallel on each changed file, then synthesize findings into a unified Markdown report
@@ -72,7 +72,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 #### 2. **Revolver Rift Website** | [Live](https://revolverrift.com) | [Repo](https://github.com/YashBondre04/revolverrift_dev)
 
-**What & Why:** A **CMS-driven full-stack gaming brand platform** that showcases game content and brand storytelling through cinematic visuals. Decoupled architecture separates the content layer (Strapi) from the presentation layer (React frontend), enabling rapid content updates without redeployment while maintaining production-grade performance and scalability.
+A **CMS-driven full-stack gaming brand platform** that showcases game content and brand storytelling through cinematic visuals. Decoupled architecture separates the content layer (Strapi) from the presentation layer (React frontend), enabling rapid content updates without redeployment while maintaining production-grade performance and scalability.
 
 **Technical Architecture:**
 - **Decoupled CMS Strategy:** Backend (Strapi v5) serves REST API with structured content collections (pages, media, hero configurations); frontend consumes and renders dynamically, enabling marketers to update site content without code changes
@@ -97,7 +97,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 #### 3. **Ledgerly SaaS Platform** | [Live](https://ledgerly-chi.vercel.app/) | [Repo](https://github.com/YashBondre04/Ledgerly)
 
-**What & Why:** A **B2B/B2C SaaS marketing website** for a financial software platform. High-fidelity design-to-code translation with fluid animations and responsive layouts demonstrates modern SaaS UI patterns—gradient overlays, glass-morphism effects, 3D WebGL graphics, and smooth motion choreography drive user engagement and conversion.
+A **B2B/B2C SaaS marketing website** for a financial software platform. High-fidelity design-to-code translation with fluid animations and responsive layouts demonstrates modern SaaS UI patterns—gradient overlays, glass-morphism effects, 3D WebGL graphics, and smooth motion choreography drive user engagement and conversion.
 
 **Technical Architecture:**
 - **Next.js Full-Stack:** Hybrid rendering (static generation for marketing pages, ISR for dynamic content); built-in API routes for backend integration
@@ -125,7 +125,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 #### 4. **Dev Habit Tracker** | [Repo](https://github.com/YashBondre04/DevhabitTracker)
 
-**What & Why:** A **stateless AI-powered developer productivity API** built as a **24-hour take-home assignment**. Demonstrates clean code execution under strict time constraints while prioritizing production-readiness: hybrid rule-based + LLM analysis detects behavioral patterns in developer activity logs (fragmented workflows, burnout cycles, deep focus) and delivers personalized coaching insights without database overhead.
+A **stateless AI-powered developer productivity API** built as a **24-hour take-home assignment**. Demonstrates clean code execution under strict time constraints while prioritizing production-readiness: hybrid rule-based + LLM analysis detects behavioral patterns in developer activity logs (fragmented workflows, burnout cycles, deep focus) and delivers personalized coaching insights without database overhead.
 
 **Technical Architecture:**
 - **Hybrid Analysis Pipeline:** 4-step architecture—Data Ingestion → Rule-Based Metrics (pure Python math) → Pattern Classification (5 behavior types with evidence) → LLM Insight Generation (Google Gemini provides coaching)
@@ -151,7 +151,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 #### 5. **Rishab Motor Driving Training School Website** | [Live](https://rishabmotor.vercel.app) | [Repo](https://github.com/YashBondre04/DrivingTrainingSchool)
 
- A **high-performance local business SPA** built for a driving school client. Demonstrates end-to-end **SEO strategy** (local, on-site, off-site, GEO, AEO) that **directly drove customer acquisition**—schema markup, keyword targeting, and WhatsApp CRM integration converted search traffic into qualified leads while maintaining pixel-perfect responsive design and <2s page load times.
+A **high-performance local business SPA** built for a driving school client. Demonstrates end-to-end **SEO strategy** (local, on-site, off-site, GEO, AEO) that **directly drove customer acquisition**—schema markup, keyword targeting, and WhatsApp CRM integration converted search traffic into qualified leads while maintaining pixel-perfect responsive design and <2s page load times.
 
 **Technical Architecture:**
 - **SEO-Optimized Stack:** React 19 + TypeScript + Vite for fast builds; semantic HTML for crawlability; JSON-LD LocalBusiness schema with service area coverage

@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Full-Stack Developer | AI & Browser Systems Enthusiast | AI & Data Analytics
 
-I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerful workflow automation.
+I specialize in building scalable web applications and advanced browser-native systems. I love combining modern frontend frameworks like React and Next.js with robust backend architectures and powerful AI-assisted workflows to build products that are performant, practical, and production-ready.
 
 ---
 
@@ -45,13 +45,17 @@ I specialize in building scalable web applications and advanced browser-native s
 
 ### 🚀 Featured Projects
 
-- **[AI Tech Lead – Agentic AI GitHub App](YOUR_REPO_LINK):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest generation through secure webhook-based multi-agent workflows.
+- **[AI Tech Lead – Agentic AI GitHub App](YOUR_REPO_LINK):** Built an installable GitHub App using Python, Flask, CrewAI, and Gemini to automate pull request reviews and Pytest generation through structured AI workflows.
 
-- **[Revolver Rift Website](https://revolverrift.com):** Developed and maintained a modern production-ready web platform with responsive UI, scalable frontend architecture, and optimized user experience.
+- **[Revolver Rift Website](https://revolverrift.com) | [Repo](https://github.com/YashBondre04/revolverrift_dev):** Developed and maintained a modern production-ready web platform with responsive UI, scalable frontend architecture, and optimized user experience.
 
-- **[SnapFlow](YOUR_REPO_LINK):** An advanced Chrome extension that captures live webpages using DOM-based rendering instead of screenshots, enabling editable exports, annotations, PDF workflows, and document restructuring directly inside the browser.
+- **[Ledgerly SaaS Platform](https://ledgerly-chi.vercel.app/) | [Repo](https://github.com/YashBondre04/Ledgerly):** A modern B2B/B2C SaaS tool marketing website showcasing responsive web design and seamless user experience.
 
-- **[Ledgerly SaaS Platform](https://ledgerly-chi.vercel.app/):** A modern B2B/B2C SaaS tool marketing website showcasing responsive web design and seamless user experience.
+- **[Dev Habit Tracker](https://github.com/YashBondre04/DevhabitTracker):** Built as a **24-hour take-home assignment**, focused on clean execution, practical feature delivery, and strong development workflow under time constraints.
+
+- **[Driving Training School Website](https://rishabmotor.vercel.app) | [Repo](https://github.com/YashBondre04/DrivingTrainingSchool):** Built as a freelance project for a driving school client, leading to an instant rise in business as soon as they started operations, with optimized SEO strategy across local, on-site, off-site, GEO, and AEO.
+
+- **Data Science / Data Analytics Projects:** Combined work across **[Ecommerce-_Machine_Learning_Data_Analysis](https://github.com/YashBondre04/Ecommerce-_Machine_Learning_Data_Analysis)**, **[Water_Usage_Prediction_Model](https://github.com/YashBondre04/Water_Usage_Prediction_Model)**, and **[911-calls-Data-Capstone](https://github.com/YashBondre04/911-calls-Data-Capstone)** showcasing applied machine learning, predictive modeling, and real-world analytical problem solving.
 
 ---
 

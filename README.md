@@ -151,7 +151,7 @@ I specialize in building scalable web applications and advanced browser-native s
 
 #### 5. **Rishab Motor Driving Training School Website** | [Live](https://rishabmotor.vercel.app) | [Repo](https://github.com/YashBondre04/DrivingTrainingSchool)
 
-**What & Why:** A **high-performance local business SPA** built for a driving school client. Demonstrates end-to-end **SEO strategy** (local, on-site, off-site, GEO, AEO) that **directly drove customer acquisition**—schema markup, keyword targeting, and WhatsApp CRM integration converted search traffic into qualified leads while maintaining pixel-perfect responsive design and <2s page load times.
+ A **high-performance local business SPA** built for a driving school client. Demonstrates end-to-end **SEO strategy** (local, on-site, off-site, GEO, AEO) that **directly drove customer acquisition**—schema markup, keyword targeting, and WhatsApp CRM integration converted search traffic into qualified leads while maintaining pixel-perfect responsive design and <2s page load times.
 
 **Technical Architecture:**
 - **SEO-Optimized Stack:** React 19 + TypeScript + Vite for fast builds; semantic HTML for crawlability; JSON-LD LocalBusiness schema with service area coverage

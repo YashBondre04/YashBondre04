@@ -70,7 +70,7 @@ An **autonomous pull request review system** that transforms GitHub webhooks int
 
 ---
 
-#### 2. **Revolver Rift Website** | [Live](https://revolverrift.com) | [Repo](https://github.com/YashBondre04/revolverrift_dev)
+#### 2. **Revolver Rift Website** | [Live](revolverrift-yash.vercel.app) | [Repo](https://github.com/YashBondre04/revolverrift_dev)
 
 A **CMS-driven full-stack gaming brand platform** that showcases game content and brand storytelling through cinematic visuals. Decoupled architecture separates the content layer (Strapi) from the presentation layer (React frontend), enabling rapid content updates without redeployment while maintaining production-grade performance and scalability.
 
